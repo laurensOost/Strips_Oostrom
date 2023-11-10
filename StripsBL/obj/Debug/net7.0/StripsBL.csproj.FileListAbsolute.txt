@@ -1,0 +1,11 @@
+C:\Users\Ok\Desktop\HoGent\Web4\TussenTijdse\solution_strips_Oostrom\StripsBL\obj\Debug\net7.0\StripsBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ok\Desktop\HoGent\Web4\TussenTijdse\solution_strips_Oostrom\StripsBL\obj\Debug\net7.0\StripsBL.AssemblyInfoInputs.cache
+C:\Users\Ok\Desktop\HoGent\Web4\TussenTijdse\solution_strips_Oostrom\StripsBL\obj\Debug\net7.0\StripsBL.AssemblyInfo.cs
+C:\Users\Ok\Desktop\HoGent\Web4\TussenTijdse\solution_strips_Oostrom\StripsBL\obj\Debug\net7.0\StripsBL.csproj.CoreCompileInputs.cache
+C:\Users\Ok\Desktop\HoGent\Web4\TussenTijdse\solution_strips_Oostrom\StripsBL\bin\Debug\net7.0\StripsBL.deps.json
+C:\Users\Ok\Desktop\HoGent\Web4\TussenTijdse\solution_strips_Oostrom\StripsBL\bin\Debug\net7.0\StripsBL.dll
+C:\Users\Ok\Desktop\HoGent\Web4\TussenTijdse\solution_strips_Oostrom\StripsBL\bin\Debug\net7.0\StripsBL.pdb
+C:\Users\Ok\Desktop\HoGent\Web4\TussenTijdse\solution_strips_Oostrom\StripsBL\obj\Debug\net7.0\StripsBL.dll
+C:\Users\Ok\Desktop\HoGent\Web4\TussenTijdse\solution_strips_Oostrom\StripsBL\obj\Debug\net7.0\refint\StripsBL.dll
+C:\Users\Ok\Desktop\HoGent\Web4\TussenTijdse\solution_strips_Oostrom\StripsBL\obj\Debug\net7.0\StripsBL.pdb
+C:\Users\Ok\Desktop\HoGent\Web4\TussenTijdse\solution_strips_Oostrom\StripsBL\obj\Debug\net7.0\ref\StripsBL.dll
